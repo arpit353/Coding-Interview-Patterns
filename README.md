@@ -1,8 +1,8 @@
 # Coding-Interview-Patterns
 
 ## 1. Pattern: Sliding Window
-* [Maximum Sum Subarray of Size K (easy)](1. Pattern Sliding Window/1. Maximum Sum Subarray of Size K.go)
-* Smallest Subarray with a given sum (easy)
+* [Maximum Sum Subarray of Size K (easy)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/1.%20Pattern%20Sliding%20Window/1.%20Maximum%20Sum%20Subarray%20of%20Size%20K.go)
+* [Smallest Subarray with a given sum (easy)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/daa58670348b10e634936ecfdf3b7492fc2dfd91/1.%20Pattern%20Sliding%20Window/2.%20Smallest%20Subarray%20With%20Given%20Sum.go)
 * Longest Substring with K Distinct Characters (medium)
 * Fruits into Baskets (medium)
 * No-repeat Substring (hard) 
