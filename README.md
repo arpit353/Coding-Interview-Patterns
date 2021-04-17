@@ -4,7 +4,7 @@
 * [Maximum Sum Subarray of Size K (easy)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/1.%20Pattern%20Sliding%20Window/1.%20Maximum%20Sum%20Subarray%20of%20Size%20K.go)
 * [Smallest Subarray with a given sum (easy)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/daa58670348b10e634936ecfdf3b7492fc2dfd91/1.%20Pattern%20Sliding%20Window/2.%20Smallest%20Subarray%20With%20Given%20Sum.go)
 * [Longest Substring with K Distinct Characters (medium)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/566f6c7e557ad2e8a2376e0c6c82f328867c62e8/1.%20Pattern%20Sliding%20Window/3.%20Longest%20Substring%20With%20K%20Distinct.go)
-* [Fruits into Baskets (medium)] (https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/1.%20Pattern%20Sliding%20Window/4.%20Fruits%20Into%20Baskets.go)
+* [Fruits into Baskets (medium)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/1.%20Pattern%20Sliding%20Window/4.%20Fruits%20Into%20Baskets.go)
 * No-repeat Substring (hard) 
 * Longest Substring with Same Letters after Replacement (hard)
 * Longest Subarray with Ones after Replacement (hard) 
