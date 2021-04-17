@@ -1,7 +1,7 @@
 # Coding-Interview-Patterns
 
 ## 1. Pattern: Sliding Window
-* Maximum Sum Subarray of Size K (easy)
+* [Maximum Sum Subarray of Size K (easy)](1. Pattern Sliding Window/1. Maximum Sum Subarray of Size K.go)
 * Smallest Subarray with a given sum (easy)
 * Longest Substring with K Distinct Characters (medium)
 * Fruits into Baskets (medium)
