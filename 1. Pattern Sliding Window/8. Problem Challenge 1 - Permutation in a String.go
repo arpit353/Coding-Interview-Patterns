@@ -72,7 +72,7 @@ func findPermutation(str string, pattern string) bool {
 			t := rune(str[i-l])
 			map1[t]--
 			if map1[t] == 0 {
-				delete(map1, rune(str[i-l]))
+				delete(map1, t)
 			}
 		}
 		if mapsEqual(map1, map2) {
