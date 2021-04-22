@@ -10,8 +10,8 @@
 * [Longest Subarray with Ones after Replacement (hard)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/1.%20Pattern%20Sliding%20Window/7.%20Longest%20Subarray%20with%20Ones%20after%20Replacement.go)
 * [Problem Challenge 1 - Permutation in a String (hard)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/1.%20Pattern%20Sliding%20Window/8.%20Problem%20Challenge%201%20-%20Permutation%20in%20a%20String.go)
 * [Problem Challenge 2 - String Anagrams (hard)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/1.%20Pattern%20Sliding%20Window/9.%20Problem%20Challenge%202%20-%20String%20Anagrams.go)
-* [Problem Challenge 3 - Smallest Window containing Substring (hard)]() 
-* [Problem Challenge 4 - Words Concatenation (hard)]()
+* Problem Challenge 3 - Smallest Window containing Substring (hard)
+* Problem Challenge 4 - Words Concatenation (hard)
 
 ## 2. Pattern: Two Pointers
 * [Pair with Target Sum (easy)](https://github.com/arpit353/Grokking-The-Coding-Interview-Golang/blob/main/2.%20Pattern%20Two%20Pointers/1.%20Pair%20with%20Target%20Sum.go)
